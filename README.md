@@ -2,6 +2,9 @@
 
 A simple WinForms Blackjack game written in C# using .NET and Visual Studio.
 
+
+![Blackjack game screenshot](BlackjackMenu.png)
+
 ---
 
 ## 🎮 Features
@@ -11,6 +14,8 @@ A simple WinForms Blackjack game written in C# using .NET and Visual Studio.
 - Custom GUI built with Windows Forms
 - Full 52-card deck, randomized and fairly dealt
 - Clean, modular, object-oriented code
+
+  ![Blackjack game screenshot](BlackjackScreenshot.png)
 
 ---
 
